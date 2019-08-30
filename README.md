@@ -2,6 +2,8 @@
 
 [Live Preview](https://d2r00w08fz6ft0.cloudfront.net/groover-demo/home.html)
 
+![GitHub All Releases](https://img.shields.io/github/downloads/ahmadhuss/groover-free-premium-ecommerce-template/total?style=social)
+
 ![snap1](/doc-imgs/01_preview.png)
 
 **26+ Pages still not pressed the star & follow button.**
